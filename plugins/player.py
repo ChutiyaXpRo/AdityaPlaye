@@ -381,7 +381,7 @@ async def skip(_, message: Message):
 
     await message.reply_photo(
                              photo="https://telegra.ph/file/d4b3fc584b39d5860f07f.jpg", 
-                             caption=f'**ՏᏦᏆᏢᏢᎬᎠ ✅**"
+                             caption=f"**ՏᏦᏆᏢᏢᎬᎠ ✅**"
 
 
 
